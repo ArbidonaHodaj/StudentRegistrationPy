@@ -18,5 +18,3 @@ Ky është një aplikacion në **Python** i krijuar për të menaxhuar regjistri
 ```bash
 python student-registration.py
 
-Ketu eshte shembulli se si duket projekti!
-[UI](C:\Users\arbid\OneDrive\Desktop\DetyraPython/UI.png)
