@@ -20,8 +20,9 @@ python student-registration.py
 
 # Student Registration Project
 
+
 Ky është një shembull i projektit për regjistrimin e studentëve.
 
 ## Screenshot i UI
-
-![UI](https://github.com/username/repository-name/blob/main/path/to/UI.png)
+Mund ta shihni ne UI.png
+![UI]
