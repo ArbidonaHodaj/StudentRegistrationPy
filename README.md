@@ -18,3 +18,10 @@ Ky është një aplikacion në **Python** i krijuar për të menaxhuar regjistri
 ```bash
 python student-registration.py
 
+# Student Registration Project
+
+Ky është një shembull i projektit për regjistrimin e studentëve.
+
+## Screenshot i UI
+
+![UI](https://github.com/username/repository-name/blob/main/path/to/UI.png)
